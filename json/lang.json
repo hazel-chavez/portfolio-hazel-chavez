@@ -16,7 +16,7 @@
     "stat_technologies": "Tecnologías",
     "btn_view_projects": "Ver Proyectos",
     "btn_download_cv": "Descargar CV",
-    "cv_file": "../assets/cv/CV_Hazel_Chavez_ES.pdf",
+    "cv_file": "../assets/cv/Hazel_Chavez_ALvarado_CV_ES.pdf",
 
     "about_me": "Sobre Mí",
     "about_description1": "Desarrolladora Web Full Stack especializada en tecnologías MEVN(MongoDB, Express, Vue.js y Node.js) y WordPress, con experiencia en el desarrollo de aplicaciones web y soluciones e-commerce. He trabajado en proyectos que incluyen sistemas web con autenticación, control de acceso basado en roles, APIs REST, gestión de datos y interfaces responsivas enfocadas en una experiencia de usuario clara. También cuento con experiencia en proyectos WordPress, realizando mejoras funcionales, personalización de sitios, integraciones y soluciones orientadas a las necesidades de cada proyecto. Me enfoco en desarrollar soluciones funcionales, mantenibles y escalables, combinando lógica de backend, desarrollo frontend y resolución práctica de problemas.",
@@ -92,7 +92,7 @@
     "stat_technologies": "Technologies",
     "btn_view_projects": "View Projects",
     "btn_download_cv": "Download CV",
-    "cv_file": "../assets/cv/CV_Hazel_Chavez_EN.pdf",
+    "cv_file": "../assets/cv/Hazel_Chavez_Alvarado_CV_EN.pdf",
 
     "about_me": "About Me",
     "about_description1": "Full Stack Web Developer specialized in MEVN technologies(MongoDB, Express, Vue.js, and Node.js) and WordPress, with experience building web applications and e-commerce solutions. I have worked on projects involving web systems with authentication, role-based access control, REST APIs, data management, and responsive interfaces focused on a clear user experience. I also have experience with WordPress projects, working on functional improvements, site customization, integrations, and solutions tailored to project requirements. I focus on building functional, maintainable, and scalable solutions, combining backend logic, frontend development, and practical problem-solving.",
